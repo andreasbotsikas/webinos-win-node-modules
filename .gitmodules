@@ -1,0 +1,63 @@
+[submodule "jsormdb"]
+	path = jsormdb
+	url = https://github.com/andreasbotsikas/node-jsormdb.git
+[submodule "socket.io-client"]
+	path = socket.io-client
+	url = https://github.com/LearnBoost/socket.io-client.git
+[submodule "sqlite3"]
+	path = sqlite3
+	url = https://github.com/developmentseed/node-sqlite3.git
+[submodule "schema"]
+	path = schema
+	url = http://github.com/akidee/schema.js
+[submodule "websocket"]
+	path = websocket
+	url = https://github.com/Worlize/WebSocket-Node.git
+[submodule "now"]
+	path = now
+	url = https://github.com/Flotype/now.git
+[submodule "socket.io"]
+	path = socket.io
+	url = https://github.com/LearnBoost/socket.io.git
+[submodule "uglify-js"]
+	path = uglify-js
+	url = https://github.com/mishoo/UglifyJS.git
+[submodule "active-x-obfuscator"]
+	path = active-x-obfuscator
+	url = https://github.com/felixge/node-active-x-obfuscator.git
+[submodule "ZeParser"]
+	path = ZeParser
+	url = https://github.com/qfox/ZeParser.git
+[submodule "node-proxy"]
+	path = node-proxy
+	url = https://github.com/andreasbotsikas/node-proxy.git
+[submodule "xml2js"]
+	path = xml2js
+	url = https://github.com/Leonidas-from-XIV/node-xml2js.git
+[submodule "sax"]
+	path = sax
+	url = https://github.com/isaacs/sax-js.git
+[submodule "connect"]
+	path = connect
+	url = https://github.com/senchalabs/connect.git
+[submodule "crc"]
+	path = crc
+	url = https://github.com/alexgorbatchev/node-crc.git
+[submodule "debug"]
+	path = debug
+	url = https://github.com/visionmedia/debug.git
+[submodule "mime"]
+	path = mime
+	url = https://github.com/bentomas/node-mime.git
+[submodule "openid"]
+	path = openid
+	url = https://github.com/havard/node-openid.git
+[submodule "qrcode"]
+	path = qrcode
+	url = https://github.com/soldair/node-qrcode.git
+[submodule "canvas"]
+	path = canvas
+	url = https://github.com/andreasbotsikas/node-canvas.git
+[submodule "colors"]
+	path = colors
+	url = https://github.com/Marak/colors.js.git
