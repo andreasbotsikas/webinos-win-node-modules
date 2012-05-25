@@ -61,3 +61,6 @@
 [submodule "colors"]
 	path = colors
 	url = https://github.com/Marak/colors.js.git
+[submodule "ansi"]
+	path = ansi
+	url = https://github.com/TooTallNate/ansi.js.git
