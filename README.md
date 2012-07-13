@@ -14,7 +14,7 @@ This is an aggregation repository to gather all required by webinos, node module
 * https://github.com/Flotype/now.git
     * Depends on -->    
         * https://github.com/LearnBoost/socket.io.git
-             Depends on -->
+            * Depends on -->
                 * https://github.com/LearnBoost/socket.io-client.git
                     * Depends on -->
                         * https://github.com/mishoo/UglifyJS.git
