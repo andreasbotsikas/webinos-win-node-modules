@@ -48,7 +48,7 @@
 	url = https://github.com/visionmedia/debug.git
 [submodule "mime"]
 	path = mime
-	url = https://github.com/bentomas/node-mime.git
+	url = https://github.com/broofa/node-mime.git
 [submodule "openid"]
 	path = openid
 	url = https://github.com/havard/node-openid.git
