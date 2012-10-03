@@ -2,6 +2,7 @@ Webinos node modules' source
 ===
 
 This is an aggregation repository to gather all required by webinos, node modules’ source codes. The repositories that are linked are optimized to build on windows.
+To update the sources do a git submodules update
 
 ## Modules analysis
 
